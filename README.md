@@ -105,4 +105,3 @@ print("p-value:", p_value)
 
 It's a powerful tool for **multi-group comparisons** — without running multiple t-tests and increasing the error rate.
 
-Would you like to continue with **Two-Way ANOVA code example**, **Post-hoc tests**, or **visualizations** next?
